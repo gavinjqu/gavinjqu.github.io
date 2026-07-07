@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: projects & research
 permalink: /projects/
-description: Side projects and explorations in data science, web development, and more.
+description: Ongoing research and side projects in economics, data science, and web development.
 nav: true
 nav_order: 3
-display_categories: [data-science, web]
+display_categories: [research, data-science, web]
 horizontal: false
 ---
 
