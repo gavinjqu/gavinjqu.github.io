@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-pca-like-a-croissant-that-flattens-over-time",
+        },{id: "post-what-anthropic-and-costco-got-right-about-human-psychology",
+        
+          title: "What Anthropic and Costco Got Right About Human Psychology",
+        
+        description: "The hidden economics of decoys, memberships, and $1.50 hot dogs — exploring the decoy effect, prospect theory, and reciprocity through Anthropic&#39;s Claude pricing tiers and Costco&#39;s rotisserie chicken.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/anthropic-costco-decoy-effect/";
+          
+        },
+      },{id: "post-the-network-science-that-dictates-your-life",
+        
+          title: "The Network Science That Dictates Your Life",
+        
+        description: "What does big fish in small pond have in common with choosing restaurants? A tour through the friendship paradox, homophily, and coordination games that quietly shape careers and everyday choices.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/network-science-dictates-life/";
+          
+        },
+      },{id: "post-pca-like-a-croissant-that-flattens-over-time",
         
           title: "PCA - Like a Croissant that Flattens Over Time",
         
