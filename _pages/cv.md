@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: /assets/pdf/Qu_Gavin_Predoc_CV.pdf
+cv_pdf: /assets/pdf/Gavin_Qu_CV.pdf
 description: Gavin Qu's Curriculum Vitae.
 ---
