@@ -3,7 +3,7 @@ layout: page
 title: Math & Econ LaTeX Template
 description: A LaTeX template for economics and math papers, lecture notes, beamer slides, and problem sets, with shared macros and a one-line switch between biblatex and natbib.
 img:
-importance: 2
+importance: 4
 category: research
 github: https://github.com/gavinjqu/math-econ-template
 ---

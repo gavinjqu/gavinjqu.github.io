@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advice for PhD Students in Economics
-description: A community-maintained collection of resources and advice for economists, from undergraduates considering a PhD to students on the job market.
+description: A community-driven, open-source resource hub for economics PhD and predoc applicants, with advice through to the job market.
 img:
 importance: 2
 category: web

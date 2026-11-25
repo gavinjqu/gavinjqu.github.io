@@ -55,7 +55,7 @@ It's the people you meet along the way that matters - I'm very thankful for the 
 ## With Respect to Time
 All good things must come to an end, but that doesn't mean the new beginning isn't exciting. This summer, I'm moving back to the west coast of the U.S., but now I can finally say I lived in Europe (not the EU) for a year. 
 
-I'd love to hear your feedbacks and other topics you'd like me to write about, my email can be found at [my profile page](https://gjqu.github.io./about/). 
+I'd love to hear your feedbacks and other topics you'd like me to write about, my email can be found at [my profile page](/). 
 
 #### End Quote:
 > But I don’t want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness, I want sin. - Aldous Huxley 

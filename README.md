@@ -1,4 +1,4 @@
-# GJQu.github.io
+# gavinjqu.github.io
 
 Personal portfolio and blog built with [Jekyll](https://jekyllrb.com/) using the [al-folio](https://github.com/alshedivat/al-folio) theme.
 
@@ -20,4 +20,4 @@ Site runs at `http://localhost:4000`. See [CUSTOMIZATION.md](CUSTOMIZATION.md) f
 
 ## Deployment
 
-Pushes to `main` auto-deploy via GitHub Actions to [GJQu.github.io](https://GJQu.github.io).
+Pushes to `main` auto-deploy via GitHub Actions to [gavinjqu.github.io](https://gavinjqu.github.io).

@@ -30,15 +30,13 @@ I am **Gavin Qu**, and I write about the **Economics and Statistics** of everyda
 My interests are broad and include:
 - Labor and Health Economics
 - Causal Inference
-- Experimental Methods
-- Market Design and Game Theory
 - Machine Learning
 - Open Source
 
 ### Research Approach
 
-I apply the scientific method to study human behavior through the abstractions of markets, firms, and economies. My work in labor economics sits at the intersection of education, health, and family formation. 
-I am driven by the 'why' behind social outcomes, using causal inference and policy evaluation to develop equitable solutions and enrich our understanding of humanity. 
+I apply the scientific method to study human behavior through the abstractions of markets, firms, and economies. My work in labor economics sits at the intersection of education and health. 
+I am driven by the 'why' behind humanities and social science, using causal inference and policy evaluation to develop equitable solutions and enrich our understanding of humanity. 
 
 ### More About Me
 
