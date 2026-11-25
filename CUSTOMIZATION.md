@@ -68,7 +68,7 @@ description: One-line summary
 img: assets/img/screenshot.png  # optional thumbnail
 importance: 1                   # lower number = appears first
 category: data-science           # must match a display_categories value in _pages/projects.md
-github: https://github.com/GJQu/repo-name  # optional, adds GitHub button
+github: https://github.com/gavinjqu/repo-name  # optional, adds GitHub button
 ---
 
 Detailed project description in markdown.

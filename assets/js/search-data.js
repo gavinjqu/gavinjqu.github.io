@@ -129,29 +129,34 @@ ninja.data = [{
             window.open("https://gavinq.substack.com/p/first-attempt-at-economic-research", "_blank");
           
         },
-      },{id: "projects-causal-inference-methods-in-economics",
+      },{id: "projects-independent-project-in-applied-microeconomics",
+          title: 'Independent Project in Applied Microeconomics',
+          description: "Forthcoming.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/applied_micro_project/";
+            },},{id: "projects-causal-inference-methods-in-economics",
           title: 'Causal Inference Methods in Economics',
           description: "Python reimplementations of classic causal inference papers — randomized experiments, matching, difference-in-differences, instrumental variables, and regression discontinuity.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/causal_inference_notes/";
-            },},{id: "projects-chronic-illness-and-labor-market-outcomes",
-          title: 'Chronic Illness and Labor Market Outcomes',
-          description: "An extension of my K-means health-trajectory research, studying how chronic illness onset affects labor market outcomes using a continuous difference-in-differences design.",
+            },},{id: "projects-health-shocks-and-labour-market-outcomes",
+          title: 'Health Shocks and Labour-Market Outcomes',
+          description: "Extension of my MSc thesis: the labour-market cost of a first heart attack, stroke, or cancer, separating mortality from labour supply with a staggered, continuous-dose difference-in-differences design.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chronic_illness_labor_did/";
             },},{id: "projects-econjobmarket-placement-database",
           title: 'EconJobMarket Placement Database',
-          description: "Scrapes and structures economics PhD placement data from 75 top US programs (1987–2025) into a portable SQLite database for analyzing hiring trends and sector breakdowns.",
+          description: "Scrapes and structures economics PhD placement data from 75 top US programs (1987–2025) into a versioned, queryable SQLite database for analyzing hiring trends and sector breakdowns.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/econ_job_market/";
             },},{id: "projects-advice-for-phd-students-in-economics",
           title: 'Advice for PhD Students in Economics',
-          description: "A community-maintained collection of resources and advice for economists, from undergraduates considering a PhD to students on the job market.",
+          description: "A community-driven, open-source resource hub for economics PhD and predoc applicants, with advice through to the job market.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/econ_phd_advice/";
-            },},{id: "projects-health-trajectories-research",
-          title: 'Health Trajectories Research',
-          description: "K-means clustering of health trajectories using UKHLS panel data",
+            },},{id: "projects-from-medical-charts-to-market-forces",
+          title: 'From Medical Charts to Market Forces',
+          description: "MSc thesis: how health types shape labour-market outcomes. K-means clustering of frailty trajectories in UK panel data, and whether the resulting types predict labour-market outcomes after age 60.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/health_trajectories/";
             },},{id: "projects-math-amp-econ-latex-template",
@@ -169,7 +174,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/GJQu", "_blank");
+          window.open("https://github.com/gavinjqu", "_blank");
         },
       },{
         id: 'social-linkedin',
